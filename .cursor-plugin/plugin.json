@@ -1,0 +1,11 @@
+{
+  "name": "veridion-markets",
+  "version": "1.0.0",
+  "description": "Receipt-linked U.S. congressional, executive-branch (OGE) and SEC Form 4 disclosures for your agent. Every row links to the government document it came from. Read-only; no key required.",
+  "author": { "name": "Veridion Markets" },
+  "homepage": "https://www.veridionmarkets.com/data-api",
+  "repository": "https://github.com/Zack0524/veridion-ai-plugins",
+  "license": "MIT",
+  "keywords": ["finance", "disclosures", "congress", "stock-act", "sec", "form-4", "mcp", "data"],
+  "logo": "assets/logo.png"
+}
