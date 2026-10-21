@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "veridion": {
+      "url": "https://www.veridionmarkets.com/api/mcp"
+    }
+  }
+}
